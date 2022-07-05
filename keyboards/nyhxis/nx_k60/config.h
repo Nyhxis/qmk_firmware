@@ -26,12 +26,12 @@
 #define PRODUCT         Nyhxis NX-K60 PCB
 
 /* key matrix size */
-#define MATRIX_ROWS 11
-#define MATRIX_COLS 7
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 15
 
 /* key matrix pins */
-#define MATRIX_ROW_PINS { B3, B2, F7, F1, F2 }
-#define MATRIX_COL_PINS { B1, D4, F4, F5, F6, C7, C6, D6, B5, D7, B4, B6, D2, D3, D5 }
+#define MATRIX_ROW_PINS { B3, B2, F7, F1, F0 }
+#define MATRIX_COL_PINS { B1, D4, F4, F5, F6, C7, C6, D6, D7, B4, B5, B6, D2, D3, D5 }
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
