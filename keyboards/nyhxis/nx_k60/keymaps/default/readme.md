@@ -1,0 +1,1 @@
+# The default keymap for NX-K60 PCB
