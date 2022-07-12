@@ -8,7 +8,8 @@ MCU = atmega32u4
 ARCH = AVR8
 
 # Bootloader selection
-BOOTLOADER = atmel-dfu
+BOOTLOADER = caterina   # Pro-Micro
+#BOOTLOADER = atmel-dfu  # Elite-C
 
 AUDIO_ENABLE ?= no
 BACKLIGHT_ENABLE ?= no  # Enable keyboard backlight functionality
